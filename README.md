@@ -12,8 +12,9 @@ User-Friendly Interface: Intuitive navigation and clean layout
 Product Search: Filter products by name or category
 
 Technologies Used
+
 ->HTML5
 
-->CSS3 (with Flexbox/Grid)
+->CSS3 
 
 ->JavaScript 
